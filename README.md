@@ -13,9 +13,9 @@ div {
 - 👨‍💻 I am currently working on computer network management
 
 - 👨‍🎓 I am currently learning about:
-<div width="500px" height="600px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<div >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="500px" height="600px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="500px" height="600px"/>
 </div >
             
 - 🤝 I'm looking to collaborate in spreading knowledge about technology and collaborating in the development of new technologies
