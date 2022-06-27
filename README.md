@@ -13,7 +13,7 @@ div {
 - 👨‍💻 I am currently working on computer network management
 
 - 👨‍🎓 I am currently learning about:
-<div width: 500px>
+<div width: 500px, height: 100px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 </div >
