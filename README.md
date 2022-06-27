@@ -4,11 +4,12 @@
 ### Welcome to my GitHub profile 👋
 
 <style>
-            img {
-    max-width: 100%;
-    max-height: 100%;
+div {
+  height: 100px;
+  width: 500px;
+  background-color: powderblue;
 }
-            <\style>
+</style>
 - 👨‍💻 I am currently working on computer network management
 
 - 👨‍🎓 I am currently learning about:
