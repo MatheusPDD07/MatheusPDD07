@@ -13,10 +13,10 @@ div {
 - 👨‍💻 I am currently working on computer network management
 
 - 👨‍🎓 I am currently learning about:
-<div>
+<div width: 500px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-</div>
+</div >
             
 - 🤝 I'm looking to collaborate in spreading knowledge about technology and collaborating in the development of new technologies
 
