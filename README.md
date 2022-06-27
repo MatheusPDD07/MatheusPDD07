@@ -3,6 +3,12 @@
 ## Hello, my name is Matheus Pereira!
 ### Welcome to my GitHub profile 👋
 
+<style>
+            img {
+    max-width: 100%;
+    max-height: 100%;
+}
+            <\style>
 - 👨‍💻 I am currently working on computer network management
 
 - 👨‍🎓 I am currently learning about:
